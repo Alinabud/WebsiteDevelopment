@@ -1,0 +1,13 @@
+.layer { 
+	text-align: center;
+	height: 15px;
+   }
+ p{
+	 font-variant: small-caps;
+	 color: white;
+	 font-size: 17px;
+	text-align-last: center;
+ }
+ a{
+	 color:black;
+ }
